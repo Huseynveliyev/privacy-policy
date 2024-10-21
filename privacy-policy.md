@@ -1,38 +1,63 @@
-Privacy Policy for Assu Courier
-This privacy policy is designed to inform users of the Assu Courier application about how we collect, use, and protect their personal information.
-Information We Collect
-Our application may collect the following information:
 
-User name and email address
-Device information (model, operating system version, etc.)
-App usage statistics
-Location data (with user permission)
+Assu Courier Privacy Policy
+1. Introduction
+Assu Courier ("we", "us", or "our") is committed to protecting the privacy of our users. This Privacy Policy explains our practices regarding the collection, use, and sharing of your personal information when you use the Assu Courier application ("App").
+2. Information We Collect
+We may collect the following types of personal information:
 
-Use of Information
-The information we collect is used for the following purposes:
+Account Information: Information you provide during registration, such as name, email address.
+Profile Information: Information associated with your account, such as profile picture, delivery addresses.
+Device Information: Information about your device, including model, operating system version, unique device identifiers.
+Location Data: Your device's real-time geographic location, when you grant permission.
 
-To improve our services
+
+3. Use of Information
+We use the information we collect for the following purposes:
+
+To create and manage your account
+To provide and improve our services
 To personalize user experience
-To troubleshoot technical issues
-To provide location-based services
+To provide customer support
+For security and fraud prevention
+To comply with legal obligations
+To inform you about promotions and updates (subject to your preferences)
 
-Location Data
-Assu Courier requests access to your device's location. This information is used to:
+4. Use of Location Data
+We use your location data for the following purposes:
 
-Provide accurate delivery tracking
-Optimize courier routes
-Enhance the overall service experience
+To provide accurate delivery tracking
+To optimize courier routes
+To show nearby services
+To enhance the overall service experience
 
-You can revoke location permissions at any time through your device settings.
-Information Security
-We take all necessary security measures to protect our users' information. Data is stored in an encrypted format and protected against unauthorized access.
-Sharing Information with Third Parties
-We do not share user information with third parties. However, information may be shared with authorized authorities in case of legal obligations.
-User Rights
-Users have the right to view, correct, or delete the information collected about them. You can contact us for such requests.
-Policy Changes
-This privacy policy may be updated from time to time. Changes will be published on this page.
-Contact
-For questions regarding our privacy policy, you can use the following contact information:
+You can change or revoke location permissions at any time through your device settings.
+5. Information Sharing
+We may share your personal information with third parties in the following situations:
+
+Service providers: Third-party service providers who help us deliver our services (e.g., payment processors, data analytics providers)
+Legal requirements: To comply with a legal obligation, protect our rights, or respond to a legal process
+Business partners: Companies we partner with to offer related services
+Corporate transactions: In the event of a company merger, sale, or restructuring
+
+6. Data Security
+We use industry-standard security measures to protect your personal information. These measures include encrypted data storage, secure data transmission, and limited personnel access.
+7. Data Retention
+We retain your personal information for as long as necessary to fulfill our legal obligations and provide our services. When you request deletion of your information, we will comply unless legal requirements prevent us from doing so.
+8. User Rights
+You have the following rights regarding your personal data:
+
+Request access to your information
+Request correction of inaccurate or incomplete information
+Request deletion of your information
+Object to the processing of your information
+Request data portability
+
+You can contact us to exercise these rights.
+9. Children's Privacy
+Our services are not directed to children under 13. If we become aware that we have collected information from a child under 13, we will promptly delete it.
+10. Policy Changes
+We may update this Privacy Policy from time to time. In case of significant changes, we will notify you through the App or via email.
+11. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us:
 Email: info@bon.az
-Last updated: [Date]
+By using this Privacy Policy, you acknowledge and agree to the practices described herein.
